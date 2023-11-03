@@ -1,0 +1,6 @@
+[commit]
+gpgsign = true
+
+[user]
+	email = josh@joshporter.xyz
+	name = Josh Porter
